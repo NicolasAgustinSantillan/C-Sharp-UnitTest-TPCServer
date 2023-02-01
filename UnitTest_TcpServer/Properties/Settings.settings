@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UnitTest_TcpServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.196.10</Value>
+    </Setting>
+    <Setting Name="WaitingTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="PortDefault" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3121</Value>
+    </Setting>
+    <Setting Name="PortPrint" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5001</Value>
+    </Setting>
+    <Setting Name="EndCharacter" Type="System.Char" Scope="User">
+      <Value Profile="(Default)">&amp;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
